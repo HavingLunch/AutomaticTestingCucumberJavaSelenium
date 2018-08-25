@@ -7,7 +7,7 @@
 __Feature:__  
 * Using Scenario Outline of cucumber to reduce the number of scenarioes.  
 
-* Capturing Screenshoot by using Gem 'win32/screenshot' # by the moment works only on Ruby x32  
+* Capturing Screenshoot by using Abstract Window Toolkit  
 
 __Purpose:__ 
 * Exploring Cucumber Ruby and Watir. 
