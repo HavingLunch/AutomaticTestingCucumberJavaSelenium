@@ -10,6 +10,6 @@ __Feature:__
 * Capturing Screenshoot by using Abstract Window Toolkit  
 
 __Purpose:__ 
-* Exploring Cucumber Ruby and Watir. 
+* Exploring Cucumber Java and Selenium. 
 * comparing productivity with Ruby&Watir and Java&Selenium for self-study.
 #### Also see repository: https://github.com/HavingLunch/AutomaticTestingCucumberRubyWatir
